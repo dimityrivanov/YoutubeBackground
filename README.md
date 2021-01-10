@@ -8,6 +8,9 @@ The whole purpose of this project is to mimic the behaviour of youtube pro versi
 # Supported Platforms
   - Android
   - iOS
+  
+# Download (Android Only)
+  - https://github.com/dimityrivanov/YoutubeBackground/releases/tag/1.0.0
 
 # Support
 If you found this project helpful you can support me by: 
