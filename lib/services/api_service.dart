@@ -5,7 +5,7 @@ import 'package:youtube_test/models/YoutubeSearchResult.dart';
 import 'package:youtube_test/models/YoutubeVideoResponse.dart';
 
 const int MAX_SEARCH_RESULTS = 10;
-const String API_KEY = "AIzaSyACh0o_jF1bECZlQ44NPAdp5Z2G3zNfmgU";
+const String API_KEY = "";
 
 class YoutubeDataSource {
   final http.Client client;
