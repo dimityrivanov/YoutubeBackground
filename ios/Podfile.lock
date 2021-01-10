@@ -1,0 +1,40 @@
+PODS:
+  - audioplayer (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - in_app_purchase (0.0.1):
+    - Flutter
+  - receive_sharing_intent (0.0.1):
+    - Flutter
+  - shared_preferences (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - audioplayer (from `.symlinks/plugins/audioplayer/ios`)
+  - Flutter (from `Flutter`)
+  - in_app_purchase (from `.symlinks/plugins/in_app_purchase/ios`)
+  - receive_sharing_intent (from `.symlinks/plugins/receive_sharing_intent/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+
+EXTERNAL SOURCES:
+  audioplayer:
+    :path: ".symlinks/plugins/audioplayer/ios"
+  Flutter:
+    :path: Flutter
+  in_app_purchase:
+    :path: ".symlinks/plugins/in_app_purchase/ios"
+  receive_sharing_intent:
+    :path: ".symlinks/plugins/receive_sharing_intent/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+
+SPEC CHECKSUMS:
+  audioplayer: 0584f31a697e4b0bbad405ae7903d7a93585e784
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  in_app_purchase: 3e2155afa9d03d4fa32d9e62d567885080ce97d6
+  receive_sharing_intent: c0d87310754e74c0f9542947e7cbdf3a0335a3b1
+  shared_preferences: af6bfa751691cdc24be3045c43ec037377ada40d
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.0
